@@ -8,4 +8,6 @@ My team is looking to venture into the Indian start-up ecosystem and so I, as a 
 
 For this project, I had to gather data from different sources. The data for 2018 is hosted in a github repository [here](https://github.com/Azubi-Africa/Career_Accelerator_LP1-Data_Analysis/blob/main/startup_funding2018.csv)
 
+The data for 2019 was hosted on OneDrive, which I downloaded to my local stotage to be read in to pandas from there. Data for 2020 and 2021 were hosted on an SQL Server database that was accessed using the right credentials like username, database name, password and server.
+
 
