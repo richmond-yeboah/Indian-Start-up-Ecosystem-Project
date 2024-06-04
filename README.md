@@ -148,29 +148,8 @@ I then go ahead to answer my business questions;
 
 ## Insights
 
-Some key findings from the analysis were
+Some key findings from the analysis will be listed here with recommendations at the end of the project.
 
-- Average funding across the years had a steady increase
-
-![alt text](images/avg_funding_across_years.png)
-
-
-- Investors swarmed into the Indian startup ecosystem in 2021, with 2,041 investors in that year
-
-
-![alt text](images/year_investors.png)
-
-
-- Fintech tops the sectors with the highest total funding in that timeframe
-
-
-![alt text](images/sector_fund.png)
-
-
-- Series H tops the list of Stages with the highest average funding received
-
-
-![alt text](images/stage_avg.png)
 
 
 ## Contact Information
